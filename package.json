@@ -1,0 +1,12 @@
+{
+  "name": "telegram_bot_btc_exchange_price",
+  "version": "1.0.0",
+  "author": "Piotr Delikat",
+  "main": "bot.js",
+  "license": "MIT",
+  "dependencies": {
+    "coinbase": "^2.0.8",
+    "dotenv": "^7.0.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
